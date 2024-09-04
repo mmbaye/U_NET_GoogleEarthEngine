@@ -69,8 +69,16 @@ maxPixels:1e9})
 ```
 
 
+Crop mapping using deep learning has become a transformative approach in agriculture, allowing for precise identification, classification, and monitoring of various crop types across extensive areas. Deep learning methods, particularly convolutional neural networks (CNNs), have significantly advanced this field by leveraging their capability to recognize complex patterns within high-dimensional data. This document provides an overview of the essential elements of deep learning in crop mapping, emphasizing its benefits in terms of accuracy, scalability, adaptability, and its broad impact on agricultural methodologies.
 
-Link https://arxiv.org/abs/1505.04597
+
+![Crop mapping](https://github.com/mmbaye/U_NET_GoogleEarthEngine/blob/main/Figs/crop_mapping.png)
+
+![Link to the original paper of Unet](https://arxiv.org/abs/1505.04597)
+
+![Unet Architecture](https://github.com/mmbaye/U_NET_GoogleEarthEngine/blob/main/Figs/U-Net.png)
+
+
 
 
 

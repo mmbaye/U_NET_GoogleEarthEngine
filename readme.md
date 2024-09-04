@@ -2,6 +2,8 @@
 
 # Google Earth engine for deep learning labelling 
 
+- Modou MBAYE
+
 Google Earth Engine is a powerful cloud-based platform for analyzing and visualizing geospatial data. It provides a vast amount of satellite imagery and other geospatial data that can be used for various applications, including generating label data for deep learning models like U-Net.
 
 To generate label data using Google Earth Engine for a U-Net deep learning model, you can use the following code in the case of crop mapping .  
